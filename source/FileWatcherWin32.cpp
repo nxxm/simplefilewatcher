@@ -21,6 +21,8 @@
 */
 
 #include <FileWatcher/FileWatcherWin32.h>
+#include <cstdint>
+#include <cstring>
 
 #if FILEWATCHER_PLATFORM == FILEWATCHER_PLATFORM_WIN32
 
